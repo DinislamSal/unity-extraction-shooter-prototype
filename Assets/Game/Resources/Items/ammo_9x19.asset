@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 99eaf57f70fd55346b1edf1908afbcd9, type: 3}
+  m_Name: ammo_9x19
+  m_EditorClassIdentifier: Assembly-CSharp::OfflineExtraction.Core.ItemSO
+  schemaVersion: 5
+  id: ammo_9x19
+  itemName: "9 \xD7 19"
+  description: "\u041F\u0430\u0447\u043A\u0430 \u043F\u0438\u0441\u0442\u043E\u043B\u0435\u0442\u043D\u044B\u0445
+    \u0431\u043E\u0435\u043F\u0440\u0438\u043F\u0430\u0441\u043E\u0432."
+  icon: {fileID: 0}
+  atlasIconIndex: -1
+  category: 2
+  rarity: 0
+  canBeBoughtFromTrader: 1
+  price: 5400
+  color: {r: 0.42, g: 0.32, b: 0.16, a: 1}
+  width: 1
+  height: 1
+  foldedWidth: 0
+  foldedHeight: 0
+  internalWidth: 0
+  internalHeight: 0
+  weightKg: 0.45
+  maxStack: 60
+  weapon:
+    caliber: 
+    damage: 0
+    rateOfFire: 0
+    magazineCapacity: 1
+    ergonomics: 0
+    recoilControl: 0
+    fireModes: 
+  armor:
+    armorClass: 0
+    maxDurability: 0
+    protectedArea: 
+  headset:
+    hearingDistanceMultiplier: 1
+    ambientNoiseReduction: 0
+    gunshotProtection: 0
+  ammunition:
+    caliber: 9x19
+    damage: 36
+    penetration: 18
+  medicine:
+    healingAmount: 0
+    useTime: 0
+    treatsBleeding: 0
+    treatsFracture: 0
+  modification:
+    slot: 0
+    ergonomicsModifier: 0
+    recoilModifier: 0
+    magazineCapacity: 0
+    magazineCaliber: 
+    compatibleWeaponIds: []

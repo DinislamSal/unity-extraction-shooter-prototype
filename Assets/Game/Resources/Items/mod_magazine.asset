@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 99eaf57f70fd55346b1edf1908afbcd9, type: 3}
+  m_Name: mod_magazine
+  m_EditorClassIdentifier: Assembly-CSharp::OfflineExtraction.Core.ItemSO
+  schemaVersion: 5
+  id: mod_magazine
+  itemName: "\u041C\u0410\u0413\u0410\u0417\u0418\u041D \u0423\u0412\u0415\u041B\u0418\u0427\u0415\u041D\u041D\u042B\u0419"
+  description: "\u0423\u0432\u0435\u043B\u0438\u0447\u0435\u043D\u043D\u044B\u0439
+    \u043E\u0440\u0443\u0436\u0435\u0439\u043D\u044B\u0439 \u043C\u0430\u0433\u0430\u0437\u0438\u043D."
+  icon: {fileID: 0}
+  atlasIconIndex: -1
+  category: 5
+  rarity: 0
+  canBeBoughtFromTrader: 1
+  price: 14800
+  color: {r: 0.24, g: 0.27, b: 0.25, a: 1}
+  width: 1
+  height: 2
+  foldedWidth: 0
+  foldedHeight: 0
+  internalWidth: 0
+  internalHeight: 0
+  weightKg: 0.5
+  maxStack: 1
+  weapon:
+    caliber: 
+    damage: 0
+    rateOfFire: 0
+    magazineCapacity: 1
+    ergonomics: 0
+    recoilControl: 0
+    fireModes: 
+  armor:
+    armorClass: 0
+    maxDurability: 0
+    protectedArea: 
+  headset:
+    hearingDistanceMultiplier: 1
+    ambientNoiseReduction: 0
+    gunshotProtection: 0
+  ammunition:
+    caliber: 
+    damage: 0
+    penetration: 0
+  medicine:
+    healingAmount: 0
+    useTime: 0
+    treatsBleeding: 0
+    treatsFracture: 0
+  modification:
+    slot: 5
+    ergonomicsModifier: -5
+    recoilModifier: 0
+    magazineCapacity: 45
+    magazineCaliber: 5.56x45
+    compatibleWeaponIds:
+    - rifle_mk1

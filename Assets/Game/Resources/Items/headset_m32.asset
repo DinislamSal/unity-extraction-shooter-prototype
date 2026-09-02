@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 99eaf57f70fd55346b1edf1908afbcd9, type: 3}
+  m_Name: headset_m32
+  m_EditorClassIdentifier: Assembly-CSharp::OfflineExtraction.Core.ItemSO
+  schemaVersion: 5
+  id: headset_m32
+  itemName: "\u0422\u0410\u041A\u0422\u0418\u0427\u0415\u0421\u041A\u0418\u0415 \u041D\u0410\u0423\u0428\u041D\u0418\u041A\u0418
+    M32"
+  description: "\u0423\u0441\u0438\u043B\u0438\u0432\u0430\u044E\u0442 \u0442\u0438\u0445\u0438\u0435
+    \u0437\u0432\u0443\u043A\u0438 \u0438 \u043F\u0440\u0438\u0433\u043B\u0443\u0448\u0430\u044E\u0442
+    \u043E\u043F\u0430\u0441\u043D\u044B\u0435 \u0438\u043C\u043F\u0443\u043B\u044C\u0441\u043D\u044B\u0435
+    \u0448\u0443\u043C\u044B."
+  icon: {fileID: 0}
+  atlasIconIndex: -1
+  category: 1
+  rarity: 0
+  canBeBoughtFromTrader: 1
+  price: 42000
+  color: {r: 0.2, g: 0.24, b: 0.22, a: 1}
+  width: 2
+  height: 2
+  foldedWidth: 0
+  foldedHeight: 0
+  internalWidth: 0
+  internalHeight: 0
+  weightKg: 0.45
+  maxStack: 1
+  weapon:
+    caliber: 
+    damage: 0
+    rateOfFire: 0
+    magazineCapacity: 1
+    ergonomics: 0
+    recoilControl: 0
+    fireModes: 
+  armor:
+    armorClass: 0
+    maxDurability: 0
+    protectedArea: 
+  headset:
+    hearingDistanceMultiplier: 1.22
+    ambientNoiseReduction: 0.28
+    gunshotProtection: 0.42
+  ammunition:
+    caliber: 
+    damage: 0
+    penetration: 0
+  medicine:
+    healingAmount: 0
+    useTime: 0
+    treatsBleeding: 0
+    treatsFracture: 0
+  modification:
+    slot: 0
+    ergonomicsModifier: 0
+    recoilModifier: 0
+    magazineCapacity: 0
+    magazineCaliber: 
+    compatibleWeaponIds: []

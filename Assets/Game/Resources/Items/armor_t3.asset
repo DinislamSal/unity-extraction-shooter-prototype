@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 99eaf57f70fd55346b1edf1908afbcd9, type: 3}
+  m_Name: armor_t3
+  m_EditorClassIdentifier: Assembly-CSharp::OfflineExtraction.Core.ItemSO
+  schemaVersion: 5
+  id: armor_t3
+  itemName: "\u0411\u0420\u041E\u041D\u0415\u0416\u0418\u041B\u0415\u0422 \u041A\u041B.
+    3"
+  description: "\u0411\u0440\u043E\u043D\u0435\u0436\u0438\u043B\u0435\u0442 \u0442\u0440\u0435\u0442\u044C\u0435\u0433\u043E
+    \u043A\u043B\u0430\u0441\u0441\u0430 \u0437\u0430\u0449\u0438\u0442\u044B."
+  icon: {fileID: 0}
+  atlasIconIndex: 2
+  category: 1
+  rarity: 0
+  canBeBoughtFromTrader: 1
+  price: 52000
+  color: {r: 0.31, g: 0.35, b: 0.25, a: 1}
+  width: 3
+  height: 3
+  foldedWidth: 0
+  foldedHeight: 0
+  internalWidth: 0
+  internalHeight: 0
+  weightKg: 7.5
+  maxStack: 1
+  weapon:
+    caliber: 
+    damage: 0
+    rateOfFire: 0
+    magazineCapacity: 1
+    ergonomics: 0
+    recoilControl: 0
+    fireModes: 
+  armor:
+    armorClass: 3
+    maxDurability: 45
+    protectedArea: "\u0413\u0440\u0443\u0434\u044C, \u0436\u0438\u0432\u043E\u0442"
+  headset:
+    hearingDistanceMultiplier: 1
+    ambientNoiseReduction: 0
+    gunshotProtection: 0
+  ammunition:
+    caliber: 
+    damage: 0
+    penetration: 0
+  medicine:
+    healingAmount: 0
+    useTime: 0
+    treatsBleeding: 0
+    treatsFracture: 0
+  modification:
+    slot: 0
+    ergonomicsModifier: 0
+    recoilModifier: 0
+    magazineCapacity: 0
+    magazineCaliber: 
+    compatibleWeaponIds: []
